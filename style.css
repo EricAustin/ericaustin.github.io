@@ -1,7 +1,11 @@
-*
+* {
+  background-image: url("wooden.jpg");
+}
+
 h1 {
   font-family: 'Roboto', sans-serif;
   }
+
 .quote {
   font-family: 'Permanent Marker', sans-serif;
   font-size: 20px;

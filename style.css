@@ -24,3 +24,9 @@ h1 {
   transition: height 0.5s;
   color: #FFF;
 }
+#toggle:checked ~ #expand {
+  height: 250px;
+}
+#toggle:checked ~ label::before {
+  content: "-";
+}

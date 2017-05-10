@@ -10,21 +10,21 @@ body {
   }
 
 .tornado {
-  text-shadow: 2px 2px 3px red;
+  text-shadow: 2px 2px 3px blue;
   font-family: 'Yrsa';
   font-size: 30px;
   text-align: left;
   }
 
 .racecar {
-  text-shadow: 2px 2px 3px white;
+  text-shadow: 2px 2px 3px blue;
   font-family: 'Pacifico';
   font-size: 30px;
   text-align: right;
   }
 
 .dev {
-  text-shadow: 2px 2px 3px blue;
+  text-shadow: 2px 2px 3px white;
   font-family: 'Love Ya Like A Sister';
   font-size: 30px;
   text-align: center;

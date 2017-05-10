@@ -20,14 +20,14 @@ body {
   text-shadow: 2px 2px 3px white;
   font-family: 'Pacifico';
   font-size: 30px;
-  text-align: center;
+  text-align: right;
   }
 
 .dev {
   text-shadow: 2px 2px 3px blue;
   font-family: 'Love Ya Like A Sister';
   font-size: 30px;
-  text-align: right;
+  text-align: center;
   }
 
 .quote {

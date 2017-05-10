@@ -5,28 +5,28 @@ body {
 .name {
   text-shadow: 2px 2px 3px white;
   font-family: 'Roboto';
-  font-size: 40px;
+  font-size: 50px;
   text-align: center;
   }
 
 .tornado {
   text-shadow: 2px 2px 3px red;
   font-family: 'Yrsa';
-  font-size: 20px;
+  font-size: 30px;
   text-align: left;
   }
 
 .racecar {
   text-shadow: 2px 2px 3px white;
   font-family: 'Pacifico';
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
   }
 
 .dev {
   text-shadow: 2px 2px 3px blue;
   font-family: 'Love Ya Like A Sister';
-  font-size: 20px;
+  font-size: 30px;
   text-align: right;
   }
 

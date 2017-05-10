@@ -7,6 +7,12 @@ summary {
   font-size: 20px;
 }
 
+dt {
+  display: inline;
+  font-size: 18px
+  font-weight: bold;
+}
+
 h1 {
   font-family: 'Merriweather';
 }

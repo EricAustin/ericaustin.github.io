@@ -7,6 +7,10 @@ dt {
   font-size: 20px;
 }
 
+h1 {
+  font-family: 'Merriweather';
+}
+
 .name {
   text-shadow: 2px 2px 3px white;
   font-family: 'Merriweather';

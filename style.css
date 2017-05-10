@@ -2,6 +2,10 @@ body {
   background-color: rgba(70, 114, 186, 1);
 }
 
+dt {
+  display: inline;
+}
+
 .name {
   text-shadow: 2px 2px 3px white;
   font-family: 'Merriweather';

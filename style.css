@@ -24,7 +24,6 @@ h1 {
   text-shadow: 1px 1px 2px rgba(70, 114, 186, 1);
   font-family: 'Yrsa';
   font-size: 30px;
-  text-align: left;
   display: inline;
   }
 
@@ -33,15 +32,13 @@ h1 {
   font-family: 'Pacifico';
   font-size: 25px;
   font-weight: bold;
-  text-align: right;
   display: inline;
   }
 
 .dev {
   text-shadow: 2px 2px 3px white;
   font-family: 'Love Ya Like A Sister';
-  font-size: 30px;
-  text-align: center;
+  font-size: 35px;
   display: inline;
   }
 

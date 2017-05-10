@@ -9,15 +9,14 @@ body {
   text-align: center;
   }
 
-.tagline {
-  display: inline;
-}
+
 
 .tornado {
   text-shadow: 1px 1px 2px rgba(70, 114, 186, 1);
   font-family: 'Yrsa';
   font-size: 30px;
   text-align: left;
+  display: inline;
   }
 
 .racecar {
@@ -26,6 +25,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   text-align: right;
+  display: inline;
   }
 
 .dev {
@@ -33,6 +33,7 @@ body {
   font-family: 'Love Ya Like A Sister';
   font-size: 30px;
   text-align: center;
+  display: inline;
   }
 
 .quote {

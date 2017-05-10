@@ -2,26 +2,26 @@ body {
   background-color: rgba(70, 114, 186, 1);
 }
 
-h1 {
-  font-family: 'Roboto', sans-serif;
-  }
-
 .name {
   text-shadow: 2px 2px 3px white;
+  font-family: 'Roboto';
   }
 
 .tornado {
   text-shadow: 2px 2px 3px red;
+  font-family: 'Yrsa';
   text-align: left;
   }
 
 .racecar {
   text-shadow: 2px 2px 3px white;
+  font-family: 'Pacifico';
   text-align: center;
   }
 
 .dev {
   text-shadow: 2px 2px 3px blue;
+  font-family: 'Love Ya Like A Sister';
   text-align: right;
   }
 

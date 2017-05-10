@@ -5,12 +5,12 @@ body {
 summary {
   display: inline;
   font-size: 20px;
+  font-weight: bold;
 }
 
 dt {
   display: inline;
   font-size: 18px;
-  font-weight: bold;
 }
 
 h1 {

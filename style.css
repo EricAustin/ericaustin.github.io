@@ -6,8 +6,20 @@ h1 {
   font-family: 'Roboto', sans-serif;
   }
 
-.grabber {
+.name {
   text-shadow: 2px 2px 3px white;
+  }
+
+.tornado {
+  text-shadow: 2px 2px 3px red;
+  }
+
+.racecar {
+  text-shadow: 2px 2px 3px white;
+  }
+
+.dev {
+  text-shadow: 2px 2px 3px blue;
   }
 
 .quote {

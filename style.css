@@ -4,6 +4,7 @@ body {
 
 dt {
   display: inline;
+  font-size: 20px;
 }
 
 .name {

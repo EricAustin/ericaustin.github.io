@@ -12,14 +12,17 @@ h1 {
 
 .tornado {
   text-shadow: 2px 2px 3px red;
+  text-align: left;
   }
 
 .racecar {
   text-shadow: 2px 2px 3px white;
+  text-align: center;
   }
 
 .dev {
   text-shadow: 2px 2px 3px blue;
+  text-align: right;
   }
 
 .quote {

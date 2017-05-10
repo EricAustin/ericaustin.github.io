@@ -2,7 +2,7 @@ body {
   background-color: rgba(70, 114, 186, 1);
 }
 
-dt {
+summary {
   display: inline;
   font-size: 20px;
 }

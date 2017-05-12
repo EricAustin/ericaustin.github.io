@@ -2,19 +2,50 @@ body {
   background-color: rgba(70, 114, 186, 1);
 }
 
-summary {
-  display: inline;
-  font-size: 20px;
-}
-
-dt {
-  display: inline;
-  font-size: 18px;
-}
 
 h1 {
   font-family: 'Merriweather';
   font-size: 22px;
+  clear: both;
+}
+
+.title-left {
+float: left;
+display: inline;
+text-indent: 20px;
+
+}
+
+.date-right {
+float: right;
+display: inline;
+font-style: italic;
+font-size: 14px;
+
+}
+
+
+.job-title {
+  font-family: 'Merriweather';
+  list-style-type: none;
+  font-size: 16px;
+}
+
+.company {
+  margin-bottom: 0px;
+  font-family: 'Merriweather';
+  font-size: 18px;
+  text-indent: 10px;
+  font-weight: bold;
+
+}
+
+.school {
+  margin: none;
+  font-family: 'Merriweather';
+  font-size: 18px;
+  text-indent: 18px;
+
 }
 
 .name {
@@ -22,15 +53,13 @@ h1 {
   font-family: 'Merriweather';
   font-size: 50px;
   text-align: center;
+  margin-bottom: 15px;
   }
-
-
 
 .tornado {
   text-shadow: 1px 1px 2px rgba(70, 114, 186, 1);
   font-family: 'Yrsa';
   font-size: 30px;
-  display: inline;
   }
 
 .racecar {
@@ -38,20 +67,24 @@ h1 {
   font-family: 'Pacifico';
   font-size: 25px;
   font-weight: bold;
-  display: inline;
   }
 
 .dev {
   text-shadow: 2px 2px 3px white;
   font-family: 'Love Ya Like A Sister';
   font-size: 35px;
-  display: inline;
   }
+
+.tag {
+  display: inline;
+  margin-top: 15px;
+}
 
 .quote {
   font-family: 'Architects Daughter', sans-serif;
   font-size: 20px;
   text-shadow: 1px 1px 2px rgba(70, 114, 186, 1);
+  margin-top: 15px;
   }
 
 .lightercontentbox {
@@ -60,5 +93,21 @@ h1 {
   margin: 50px auto;
   padding: 25px;
   border-radius: 25px;
-  
+}
+
+ul {
+  margin: 0px 0px 15px;
+  clear: both;
+  }
+
+ul.contact {
+  list-style-type: none;
+}
+
+.contact > li > i {
+ display: inline;
+}
+
+.contact-title {
+  margin-top: 40px;
 }
